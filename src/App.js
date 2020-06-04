@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
@@ -7,9 +7,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>Bootcamp 2020 React app</h1>
         <p>
           Hello world.
         </p>
+        <h1>Bootcamp 2020 React app</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
