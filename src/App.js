@@ -7,9 +7,9 @@ function App() {
       <header className="App-header">
       
         <h1>Bootcamp 2020 React app</h1>
-        <p>
+        <h2>
           Hello Devrlopers
-        </p>
+        </h2>
         <h1>Bootcamp 2020 React app</h1>
         <a
           className="App-link"
