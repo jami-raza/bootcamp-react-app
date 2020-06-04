@@ -8,7 +8,7 @@ function App() {
       
         <h1>Bootcamp 2020 React app</h1>
         <h2>
-          Hello Devrlopers
+          Hello Devrlopers.
         </h2>
         <h1>Bootcamp 2020 React app</h1>
         <a
