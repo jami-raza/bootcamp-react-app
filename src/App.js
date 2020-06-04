@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Bootcamp 2020 React app</h1>
         <p>
-          Hello world.
+          Hello Devrlopers.
         </p>
         <h1>Bootcamp 2020 React app</h1>
         <a
